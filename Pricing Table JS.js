@@ -1,5 +1,5 @@
 function check() {
-    var checkBox = document.getElementById("checkbox");
+    var checkBox = document.getElementById("checbox");
     var text1 = document.getElementsByClassName("text1");
     var text2 = document.getElementsByClassName("text2");
   
